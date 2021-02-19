@@ -1,0 +1,26 @@
+body {
+  font-family: consolas;
+  text-align: center;
+}
+
+.block-find {
+  text-align: center;
+  width: 600px;
+  margin: 0 auto;
+  background-color: rgb(100, 100, 100);
+  color: white;
+  padding: 30px;
+}
+
+.photo {
+    width: 500px;
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    transition: 1s;
+}
+
+
+
+
+
